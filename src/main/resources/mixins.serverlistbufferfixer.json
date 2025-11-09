@@ -1,5 +1,6 @@
 {
   "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
   "package": "me.nixuge.serverlistbufferfixer.mixins",
   "refmap": "refmap.serverlistbufferfixer.json",
   "mixins": [],
